@@ -14,13 +14,16 @@ From the pictures, I see a tetrahedal shape comprised of 3 (yellow) bars mounted
 * The third bar is vertical and defines the rotational swing axis of the crane. A circular wheel (hub-spokes-ring) is rotatably mounted at the bottom of this vertical bar. The main boom is pivotally mounted on this ring. Spokes from the hub and diagonal bars from the apex of the tetrahedron carry the loads of the boom.
     * This implies that the diagonal bars must rotate with the wheel. The wheel is likely integrated with a tube surrounding the vertical leg of the tetrahedron and it needs a top bearing to support radial loads from the diagonal bars.
      
-![Stiff Leg Crane](imgs/stiffleg-crane.jpeg)
+![Stiff Leg Crane](imgs/Construction-of-the-BRP-Linn-Cove-Viaduct-in-1984-completed-in-1987-photo-by-Hugh-Morton.jpg)
+![](imgs/BR7.webp)
+![](imgs/P2-NC-LinnCove.jpg)
 
-![Elevation view](imgs/Linn_Cove_Viaduct_Erection_Schene.png) [Wikipedia](https://en.wikipedia.org/wiki/Linn_Cove_Viaduct)
+![Elevation view](imgs/Linn_Cove_Viaduct_Erection_Scheme.png) [Wikipedia](https://en.wikipedia.org/wiki/Linn_Cove_Viaduct)
 
 * [History of the Linn Cove Viaduct](https://www.nps.gov/blri/learn/historyculture/linn-cove-viaduct.htm)
 * [Historic American Engineering Record (HAER No. NC-42-A)](https://tile.loc.gov/storage-services/master/pnp/habshaer/nc/nc0400/nc0483/data/nc0483data.pdf)
 * [NPS Data Store Reference](https://irmadev.nps.gov/DataStore/Reference/Profile/2265973) (Dead end)
+* [Construction Practices Handbook (for Concrete Segmental and Cable-Supported Bridges)](https://asbi-assoc.org/wp-content/uploads/2023/07/2019-3rd_Edition_CP_Handbook.pdf)
 
 Claude provided the following links:
 
