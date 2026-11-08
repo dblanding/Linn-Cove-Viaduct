@@ -42,3 +42,8 @@ Dimensions of the crane were hard to find. I scoured the web, but only found som
 
 ![Redesigned Crane](imgs/redesigned-crane.png)
 
+The picture below shows the more accurately modeled crane superimposed on the original version. Note that the accurate version shows the bottom of the boom located at the rim of the bullwheel whereas the original shows it at the base of the mast. The result is that the boom would need to be more nearly vertical.
+
+![Both Cranes](imgs/both-cranes.png)
+
+
