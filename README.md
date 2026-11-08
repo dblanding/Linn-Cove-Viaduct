@@ -34,3 +34,11 @@ Claude provided the following links:
 Claude wasn't able to open the Plan Sheets for the viaduct,  but offered to generate a STEP file for the bridge based on them so I sent him the pdf and he gernerated a step model.
 
 ![Step model of viaduct under construction](imgs/cad-model.png)
+
+
+Claude's model of the American S-20 Crane above gives the idea of a crane, but I decided to try to improve on it. This was partly motivated by a desire to have it be more realistic and partly as a CAD challenge to exercise KodaCAD (at version 2.3.0). The process exposed some needed improvements which were implemented in version 2.4.0. KodaCAD was able to do the job, but it was tedious to use (in comparison to a full-fledged professional CAD app like SolidDesigner).
+
+Dimensions of the crane were hard to find. I scoured the web, but only found some [overall dimensions](https://cranenetwork.com/uploads/specs/874bcb947ac5f70973963c6ca.pdf). For details, I had to rely on scaling some grainy photos. Eventually, I ended up converging on an improved model that showed my guess at the configuration of the moving components, with roughly correct overall dimesions. The details were still all fudged to the point where they would pass as "eye-wash". This is where I decided that I had chased this far enough.
+
+![Redesigned Crane](imgs/redesigned-crane.png)
+
