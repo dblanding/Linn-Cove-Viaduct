@@ -17,6 +17,7 @@ From the pictures, I see a tetrahedal shape comprised of 3 (yellow) bars mounted
 ![Stiff Leg Crane](imgs/Construction-of-the-BRP-Linn-Cove-Viaduct-in-1984-completed-in-1987-photo-by-Hugh-Morton.jpg)
 ![](imgs/BR7.webp)
 ![](imgs/P2-NC-LinnCove.jpg)
+![](imgs/favdrive10.jpg)
 
 ![Elevation view](imgs/Linn_Cove_Viaduct_Erection_Scheme.png) [Wikipedia](https://en.wikipedia.org/wiki/Linn_Cove_Viaduct)
 
