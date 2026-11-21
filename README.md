@@ -37,14 +37,23 @@ Claude wasn't able to open the Plan Sheets for the viaduct,  but offered to gene
 ![Step model of viaduct under construction](imgs/cad-model.png)
 
 
-Claude's model of the American S-20 Crane above gives the idea of a crane, but I decided to try to improve on it. This was partly motivated by a desire to have it be more realistic and partly as a CAD challenge to exercise KodaCAD (at version 2.3.0). The process exposed some needed improvements which were implemented in version 2.4.0. KodaCAD was able to do the job, but it was tedious to use (in comparison to a full-fledged professional CAD app like SolidDesigner).
+Claude's model of the American S-20 Crane above gives the idea of a crane, but I decided to try to improve on it. This was motivated partly by a desire to have it be more realistic and partly as a CAD challenge to exercise KodaCAD (at version 2.3.0). The process exposed some needed improvements which were implemented in version 2.4.0. KodaCAD was able to do the job, but it was tedious to use (in comparison to a full-fledged professional CAD app like SolidDesigner).
 
-Dimensions of the crane were hard to find. I scoured the web, but only found some [overall dimensions](https://cranenetwork.com/uploads/specs/874bcb947ac5f70973963c6ca.pdf). For details, I had to rely on scaling some grainy photos. Eventually, I ended up converging on an improved model that showed my guess at the configuration of the moving components, with roughly correct overall dimesions. The details were still all fudged to the point where they would pass as "eye-wash". This is where I decided that I had chased this far enough.
-
-![Redesigned Crane](imgs/redesigned-crane.png)
-
-The picture below shows the more accurately modeled crane superimposed on the original version. Note that the accurate version shows the bottom of the boom located at the rim of the bullwheel whereas the original shows it at the base of the mast. The result is that the boom would need to be more nearly vertical.
+The picture below shows the 2 cranes. Note that the newer version shows the bottom of the boom located at the rim of the bullwheel whereas the original shows it at the base of the mast, with the result that the boom must be more nearly vertical.
 
 ![Both Cranes](imgs/both-cranes.png)
 
+Dimensions of the crane were hard to find. Scouring the web, I only found some [overall dimensions](https://cranenetwork.com/uploads/specs/874bcb947ac5f70973963c6ca.pdf), but for details, I had to rely on scaling some grainy photos. Eventually, I ended up converging on an improved model that showed my guess at the configuration of the moving components, with roughly correct overall dimesions. An additional detail was the need for the crane to be supported on a frame which, in turn, needed to be supported on 3 adjustable blocks. This allowed the mast to always be vertical, as the *superelevation* of the roadway surface below it was variable from one location to another. The details are still all fudged to the point where they pass as "eye-wash". This is where I decided that I had chased this far enough. The view below shows the redesigned crane sitting on the *lofted* version of the roadway (up to segment 64).
+
+![Redesigned Crane](imgs/redesigned-crane.png)
+
+The series of pictures below captures the way section 65 would be picked up, lifted, swung by the crane, then lowered into position for installation.
+
+![Initial Position](crane-poses/pose-0.png)
+
+![Lifted Position](crane-poses/pose-1.png)
+
+![Swung Position](crane-poses/pose-2.png)
+
+![Lowered Position](crane-poses/pose-3.png)
 
