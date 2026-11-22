@@ -57,3 +57,7 @@ The series of pictures below captures the way section 65 would be picked up, lif
 
 ![Lowered Position](crane-poses/pose-3.png)
 
+
+
+https://github.com/user-attachments/assets/3483cfc1-b80b-4bf8-a623-d6e395b24665
+
