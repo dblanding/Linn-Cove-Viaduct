@@ -6,7 +6,7 @@
 
 ![Stiff Leg Crane](imgs/crane.jpg)
 
-From the pictures, I see a tetrahedal shape comprised of 3 (yellow) bars mounted on a rigid (brown) structure, which is in turn mounted on a mobile base so that it can be made level using hydraulic jacks.
+From the pictures, I see a tetrahedral shape comprised of 3 (yellow) bars mounted on a rigid (brown) structure, which is in turn mounted on a mobile base so that it can be made level using hydraulic jacks.
 * The apex of the tetrahedron is the attachment point for:
     * the support cables running to the top of the boom
     * diagonal bars to the rotating ring (boom bottom pivot)
@@ -32,7 +32,7 @@ Claude provided the following links:
     * [Plan and Elevation views of roadway, piers, and footers](https://utcdb.fiu.edu/wp-content/uploads/2021/09/linncove.pdf)
 2. [Design and Construction of Linn Cove Viaduct](https://www.pci.org/PCI_Docs/Publications/PCI%20Journal/1985/September-1985/Design%20and%20Construction%20of%20Linn%20Cover%20Viaduct.pdf)
 
-Claude wasn't able to open the Plan Sheets for the viaduct,  but offered to generate a STEP file for the bridge based on them so I sent him the pdf and he gernerated a step model.
+Claude wasn't able to open the Plan Sheets for the viaduct,  but offered to generate a STEP file for the bridge based on them so I sent him the pdf and he generated a step model.
 
 ![Step model of viaduct under construction](imgs/cad-model.png)
 
@@ -43,7 +43,7 @@ The picture below shows the 2 cranes. Note that the newer version shows the bott
 
 ![Both Cranes](imgs/both-cranes.png)
 
-Dimensions of the crane were hard to find. Scouring the web, I only found some [overall dimensions](https://cranenetwork.com/uploads/specs/874bcb947ac5f70973963c6ca.pdf), but for details, I had to rely on scaling some grainy photos. Eventually, I ended up converging on an improved model that showed my guess at the configuration of the moving components, with roughly correct overall dimesions. An additional detail was the need for the crane to be supported on a frame which, in turn, needed to be supported on 3 adjustable blocks. This allowed the mast to always be vertical, as the *superelevation* of the roadway surface below it was variable from one location to another. The details are still all fudged to the point where they pass as "eye-wash". This is where I decided that I had chased this far enough. The view below shows the redesigned crane sitting on the *lofted* version of the roadway (up to segment 64).
+Dimensions of the crane were hard to find. Scouring the web, I only found some [overall dimensions](https://cranenetwork.com/uploads/specs/874bcb947ac5f70973963c6ca.pdf), but for details, I had to rely on scaling some grainy photos. Eventually, I ended up converging on an improved model that showed my guess at the configuration of the moving components, with roughly correct overall dimensions. An additional detail was the need for the crane to be supported on a frame which, in turn, needed to be supported on 3 adjustable blocks. This allowed the mast to always be vertical, as the *superelevation* of the roadway surface below it was variable from one location to another. The details are still all fudged to the point where they pass as "eye-wash". This is where I decided that I had chased this far enough. The view below shows the redesigned crane sitting on the *lofted* version of the roadway (up to segment 64).
 
 ![Redesigned Crane](imgs/redesigned-crane.png)
 
